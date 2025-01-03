@@ -8,7 +8,7 @@
           <div class="col-4 text-center p-5"><img src="../../assets/img/it.jpeg" alt=""> <h4>IT CLUB</h4></div>
           <div class="col-4 text-center p-5"><img src="../../assets/img/laskar.jpeg" alt=""> <h4>LASKAR PUSTAKA</h4></div>
           <div class="col-4 text-center p-5"><img src="../../assets/img/paskibra.jpeg" alt=""> <h4>PASKIBRA</h4></div>
-          <div class="col-4 text-center p-5"><img src="../../assets/img/.pd.jpeg" alt=""> <h4>PERISAI DIRI</h4></div>
+          <div class="col-4 text-center p-5"><img src="../../assets/img/pd.jpeg" alt=""> <h4>PERISAI DIRI</h4></div>
       </div>
   </div>
 </template>
